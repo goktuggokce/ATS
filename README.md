@@ -18,9 +18,12 @@ Most of the operations attempted under the administrator account are logged.
 
 * _(Example login credentials: TCKN: adminTC Password: admin)_
 
->**1.1) LOG**: This section presents the log to the administrator.
+**1.1) LOG**: This section presents the log to the administrator.
+
 **1.2) GENERA**L: This section displays the Income Table (Left), Expense Table (Right), and calculates the total income, expense, and net (Bottom).
->**1.3) ADMIN**: This section allows manual data entry by the administrator.
+
+**1.3) ADMIN**: This section allows manual data entry by the administrator.
+    
     1.3.1) I: Addition/subtraction of Income.
 
         1.3.1.1) Description and Amount are entered for addition.
@@ -32,7 +35,8 @@ Most of the operations attempted under the administrator account are logged.
         1.3.2.1) Description and Amount are entered for addition.
         
         1.3.2.2) Description, Amount, and Date are required for subtraction.
->**1.3.3) Resident**: Addition/removal of Residents.
+**1.3.3) Resident**: Addition/removal of Residents.
+
     1.3.3.1) TCKN, First Name, Last Name, Flat, Ownership, Password, Super User are required for addition.
 
     1.3.3.2) Only TCKN is required for removal.
