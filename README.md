@@ -49,10 +49,10 @@ _The logging function keeps a record of processes' success or failure history in
 
 ## Example Screenshots
 GENERAL named panel:
-![App Screenshot]([https://lh3.googleusercontent.com/drive-viewer/AKGpihZ1VRN8bz0X8D3IsFdOiSn47MP5IfHYhU-QT4xeFzKuPaZGcl-E294IpeZiBuU76-Np_be6sBLN5r0PcSYwyK-15WY3uA=s1600-v0](https://drive.google.com/uc?export=download&id=16twnLAbOFsTprZG_Vb7zNNN9TuyMWaOo))
+![App Screenshot](https://lh3.googleusercontent.com/drive-viewer/AKGpihYD6oaQvbzu6Hq8r4E9GU8aP5nY73RIRHfyWEaOPyFhpYb4DLTtDp9c212Fn4RCQGGNkO4fVJ0xlDt7ZTGGdYum0H48Um8VRfQ=s1600-rw-v1)
 
 ADMIN named panel:
-![App Screenshot]([https://lh3.googleusercontent.com/drive-viewer/AKGpihb2cp1IWV-UAxFcYwcb-Tk5mtk2RDR7mxzNBGwLcv2tQkt0yk2W_1uQMqLqKc7bDCDEQzLuQdJ9Af891_X--XQIG-ByrA=s1600-v0](https://drive.google.com/uc?export=download&id=1oyGFLiOXBeml58OYaJna0pTSU0rZFtwL))
+![App Screenshot](https://lh3.googleusercontent.com/drive-viewer/AKGpihbx1KIKltC0Iytp-tZyWa0MOMo8Dsvya2IhKYaOaBKbIg1lV1QLqmWIZBEOObvxn61sETfD4XhnViNK7qHdXNM1g65hkOvZTfI=s1600-rw-v1)
 
 ## Lessons Learned
 
