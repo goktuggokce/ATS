@@ -49,10 +49,21 @@ _The logging function keeps a record of processes' success or failure history in
 
 ## Example Screenshots
 GENERAL named panel:
-![App Screenshot](https://lh3.googleusercontent.com/drive-viewer/AKGpihYD6oaQvbzu6Hq8r4E9GU8aP5nY73RIRHfyWEaOPyFhpYb4DLTtDp9c212Fn4RCQGGNkO4fVJ0xlDt7ZTGGdYum0H48Um8VRfQ=s1600-rw-v1)
+![Medya1](https://github.com/user-attachments/assets/307b4799-7d31-4285-b6ec-d5ec90ce8c15)
+
 
 ADMIN named panel:
-![App Screenshot](https://lh3.googleusercontent.com/drive-viewer/AKGpihbx1KIKltC0Iytp-tZyWa0MOMo8Dsvya2IhKYaOaBKbIg1lV1QLqmWIZBEOObvxn61sETfD4XhnViNK7qHdXNM1g65hkOvZTfI=s1600-rw-v1)
+![Medya2](https://github.com/user-attachments/assets/b2069b87-8b5a-4e02-a90b-ed5ea1677218)
+
+Others:
+![Medya3](https://github.com/user-attachments/assets/5d6432cf-17cc-4e10-9b51-42becf3af7de)
+![Medya4](https://github.com/user-attachments/assets/946f244c-52c8-40f4-8454-f7904fc39f97)
+![Medya5](https://github.com/user-attachments/assets/022ac96b-2a00-4095-a35f-ff8566e9112a)
+![Medya6](https://github.com/user-attachments/assets/9a407bb0-5f03-4dd3-8826-1adffb95a134)
+![Medya7](https://github.com/user-attachments/assets/25605dd8-6682-4724-84b7-dcf932147486)
+![Medya8](https://github.com/user-attachments/assets/3ddad6e2-3a00-4099-8369-ee22abb8548d)
+
+
 
 ## Lessons Learned
 
