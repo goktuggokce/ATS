@@ -49,13 +49,19 @@ _The logging function keeps a record of processes' success or failure history in
 
 ## Example Screenshots
 GENERAL named panel:
+
+
 ![Medya1](https://github.com/user-attachments/assets/307b4799-7d31-4285-b6ec-d5ec90ce8c15)
 
 
 ADMIN named panel:
+
+
 ![Medya2](https://github.com/user-attachments/assets/b2069b87-8b5a-4e02-a90b-ed5ea1677218)
 
 Others:
+
+
 ![Medya3](https://github.com/user-attachments/assets/5d6432cf-17cc-4e10-9b51-42becf3af7de)
 ![Medya4](https://github.com/user-attachments/assets/946f244c-52c8-40f4-8454-f7904fc39f97)
 ![Medya5](https://github.com/user-attachments/assets/022ac96b-2a00-4095-a35f-ff8566e9112a)
